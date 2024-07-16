@@ -2,12 +2,12 @@
 
 
 
-**Packages we are using:**
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+<img src ="https://github.com/user-attachments/assets/4a6ec072-d940-419f-a24b-8ae018f04810" width = "200" />
+<img src ="https://github.com/user-attachments/assets/49d399ec-c52e-4ca8-adb7-e540060bcbd8" width = "200" />
+<img src ="https://github.com/user-attachments/assets/250bb860-0300-4071-b9d1-1554e4ca171a" width = "200" />
+<img src ="https://github.com/user-attachments/assets/27d629a4-9461-4490-8d89-e8bc51a0ac46" width = "200" />
+<img src ="https://github.com/user-attachments/assets/d77d7602-bc7e-44e5-8524-99eb7398ec33" width = "200" />
 
-This video is for those who want to master Flutter animation. In total there will be four episodes and this is the first one, where you will learn how to create an animated tesla car app using Flutter that works both android and iOS. Users can unlock any door, check battery status also control the air cooler temperature and check the psi of the tires.
+https://github.com/user-attachments/assets/f25d743b-0137-4650-8230-ddb296a38b75
 
-In this hole tutorial, we will cover how to use ImplicitlyAnimatedWidge and how to use multiple AnimationController on AnimatedBuilder. How to change curve, also update the AnimatedBuilder with notifyListeners method, and more!
-
-### Animated Tesla App Conect Final UI
